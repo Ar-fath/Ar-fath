@@ -2,26 +2,40 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%7C+Machine+Learning;Full+Stack+Development+%7C+Generative+AI;Building+Intelligent+Solutions;Turning+Ideas+Into+Real+World+Projects;Learn+%7C+Build+%7C+Innovate+%7C+Repeat+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%7C+Machine+Learning;Full+Stack+Development+%7C+Generative+AI;Building+Intelligent+Systems;Turning+Ideas+Into+Real+World+Solutions;Learn+%E2%80%A2+Build+%E2%80%A2+Innovate+%E2%80%A2+Repeat+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Ar-fath&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7B2FF7,100:FF00FF&height=3&section=header" />
 
 </div>
 
 ---
 
-## 👋 Hey There!
+## 👋 Hello, I'm Arfath
 
-I'm **Arfath**, an **Artificial Intelligence & Machine Learning student** passionate about building intelligent systems and turning ideas into practical solutions.
+I'm an **Artificial Intelligence & Machine Learning student** interested in building intelligent, practical and scalable technology.
 
-I enjoy exploring:
+My work focuses on combining:
+
+`AI` · `Machine Learning` · `Data Science` · `Generative AI` · `RAG` · `Full Stack Development`
+
+> **I don't just learn technology — I build with it.**
+
+---
+
+# 🧠 DEVELOPER SYSTEM
 
 ```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-📊 Data Science
-🌐 Full Stack Development
-✨ Generative AI
-🔎 RAG Systems
+╔══════════════════════════════════════════════════════════════╗
+║                    ARFATH // AI SYSTEM                       ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ROLE        →  AI / ML ENGINEER                             ║
+║  DOMAIN      →  Artificial Intelligence                      ║
+║  LANGUAGE    →  Python                                       ║
+║  INTERESTS   →  AI • ML • Data • GenAI • RAG                ║
+║  BUILD MODE  →  ACTIVE                                       ║
+║  MINDSET     →  LEARN • BUILD • IMPROVE                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
